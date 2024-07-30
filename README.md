@@ -25,9 +25,7 @@ A highly scalable and secure doctor appointment system built with the MERN stack
 - **Payment Integration**: Stripe, PayPal
 - **Deployment**: Docker, Cloud Platforms (AWS, Azure, Google Cloud)
 - **Testing**: Mocha, Chai
-
-## Project Setup
-
+  
 ### Prerequisites
 
 - Node.js and npm
