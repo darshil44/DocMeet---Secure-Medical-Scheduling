@@ -8,7 +8,7 @@ A highly scalable and secure doctor appointment system built with the MERN stack
 - **Secure Authentication**: Robust user authentication and authorization using JWT and OAuth.
 - **Telemedicine Integration**: Conduct online consultations through integrated video conferencing tools.
 - **Doctor Availability Management**: Doctors can manage their schedules and set availability.
-- **Automated Notifications**: Email and SMS reminders for appointments, cancellations, and updates.
+- **Automated Notifications**: Email and SMS reminders for appointments, cancellations, and updates. 
 - **Scalable Design**: Leveraging Redis for caching and optimized MongoDB queries for performance.
 - **Payment Integration**: Secure online payment options for booking fees.
 - **Ratings and Reviews**: Patients can rate and review doctors post-appointment.
