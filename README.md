@@ -12,7 +12,7 @@ A highly scalable and secure doctor appointment system built with the MERN stack
 - **Scalable Design**: Leveraging Redis for caching and optimized MongoDB queries for performance.
 - **Payment Integration**: Secure online payment options for booking fees.
 - **Ratings and Reviews**: Patients can rate and review doctors post-appointment.
-- **Medical Records Management**: Secure upload and storage of medical records and consultation notes.
+- **Medical Records Management**: Secure upload and storage of medical records and consulttion notes.
 
 ## Technologies Used
 
