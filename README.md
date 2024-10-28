@@ -16,7 +16,7 @@ A highly scalable and secure doctor appointment system built with the MERN stack
 
 ## Technologies Used
 
-- **Frontend**: ReactJS, Next.js
+- **Frontend**: ReactJS, Next.js 
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Caching**: Redis
