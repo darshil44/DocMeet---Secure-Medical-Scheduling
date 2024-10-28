@@ -23,7 +23,7 @@ A highly scalable and secure doctor appointment system built with the MERN stack
 - **Authentication**: JWT, OAuth 
 - **Video Conferencing**: WebRTC, Zoom
 - **Payment Integration**: Stripe, PayPal
-- **Deployment**: Docker, Cloud Platforms (AWS, Azure, Google Cloud)
+- **Deployment**: Docker, Cloud Platforms (AWS, Azure, Google Cloud) 
 - **Testing**: Mocha, Chai
   
 ### Prerequisites
