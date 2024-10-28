@@ -20,7 +20,7 @@ A highly scalable and secure doctor appointment system built with the MERN stack
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB 
 - **Caching**: Redis
-- **Authentication**: JWT, OAuth
+- **Authentication**: JWT, OAuth 
 - **Video Conferencing**: WebRTC, Zoom
 - **Payment Integration**: Stripe, PayPal
 - **Deployment**: Docker, Cloud Platforms (AWS, Azure, Google Cloud)
