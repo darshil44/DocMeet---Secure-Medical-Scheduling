@@ -2,7 +2,7 @@ const userModel = require("../models/userModels");
 const bcrypt = require("bcryptjs");
 const jwt = require("jsonwebtoken"); 
     
-//register callback 
+//register callback  
 const registerController = async (req, res) => { 
   try {
     const exisitingUser = await userModel.findOne({ email: req.body.email });
