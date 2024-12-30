@@ -4,7 +4,7 @@ const {
   registerController,
 } = require("../controllers/userCtrl");
 
-//router onject
+//router onject 
 const router = express.Router(); 
  
 //routes
