@@ -7,7 +7,7 @@ const {
 //router onject 
 const router = express.Router(); 
   
-//routes 
+//routes  
 //LOGIN || POST
 router.post("/login", loginController);
  
