@@ -4,7 +4,7 @@ A highly scalable and secure doctor appointment system built with the MERN stack
 
 ## Key Features
 
-- **Real-Time Appointment Booking**: Patients can book, reschedule, or cancel appointments in real-time.
+- **Real-Time Appointment Booking**: Patients can book, reschedule, or cancel appointments in real time.
 - **Secure Authentication**: Robust user authentication and authorization using JWT and OAuth.
 - **Telemedicine Integration**: Conduct online consultations through integrated video conferencing tools.
 - **Doctor Availability Management**: Doctors can manage their schedules and set availability.
