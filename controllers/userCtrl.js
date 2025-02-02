@@ -25,7 +25,7 @@ const registerController = async (req, res) => {
       message: `Register Controller ${error.message}`,
     });
   }
-};
+}; 
 
 // login callback
 const loginController = async (req, res) => {
