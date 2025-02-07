@@ -14,7 +14,7 @@ A highly scalable and secure doctor appointment system built with the MERN stack
 - **Ratings and Reviews**: Patients can rate and review doctors post-appointment.  
 - **Medical Records Management**: Secure upload and storage of medical records and consulttion notes.
 
-## Technologies Used
+## Technologies Used 
   
 - **Frontend**: ReactJS, Next.js 
 - **Backend**: Node.js, Express.js
