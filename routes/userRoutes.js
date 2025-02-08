@@ -5,7 +5,7 @@ const {
 } = require("../controllers/userCtrl"); 
 
 //router onject 
-const router = express.Router(); 
+const router = express.Router();  
   
 //routes  
 //LOGIN || POST
