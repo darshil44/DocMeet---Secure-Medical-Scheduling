@@ -37,5 +37,5 @@ A highly scalable and secure doctor appointment system built with the MERN stack
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/yourusername/doctor-appointment-system.git
+   git clone [https://github.com/darshil44/doctor-appointment-system.git
    cd doctor-appointment-system](https://github.com/darshil44/DocMeet---Secure-Medical-Scheduling)
